@@ -5,5 +5,6 @@ public class HolaMundo3
                 System.out.println ( " hola mundo2 " );
 		System.out.println ( " hola Lalo " );
 		System.out.println ( " hola Andy " );
+		System.out.println ("  Hola Osuna Arturo");
         }
 }
